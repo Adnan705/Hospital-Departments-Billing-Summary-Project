@@ -1,0 +1,5 @@
+Patient_ID,Name,Age,Department,Billing_Amount
+P001,Ali,45,Cardiology,15000
+P002,Sara,30,Neurology,20000
+P003,Hamza,50,Orthopedics,18000
+P004,Ayesha,28,Cardiology,17000
